@@ -7,5 +7,6 @@ public class adf {
     public adf() {
         System.out.println("Hello world");
         System.out.println("Hello world");
+        System.out.println("Hello world");
     }
 }
