@@ -5,5 +5,7 @@ package com.example.android.borderlessbuttons;
  */
 public class adf {
     public adf() {
+
+        System.out.println("Hello world");
     }
 }
