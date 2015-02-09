@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-5324566c728e6b64d8695f3f0e6369aefa9186dc.jar" />
+    </item>
+    <item
+        jar="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-47eb7d61aef59a17c057982e71ca515cfc77c5cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Shan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-09d7c14b64f8a6a21d511f3ebd2d3a48495e6cab.jar" />
+    </item>
+    <item
+        jar="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-7d3b2079ed264293ea622852794770cdf88a08af.jar" />
+    </item>
+    <item
+        jar="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-c79242038a116cd1c96d25207a211df47524bda5.jar" />
+    </item>
+    <item
+        jar="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-6e6f7e5716f3f4e4d9c1dd4d4a1961cfc28a8eb3.jar" />
+    </item>
+
+</items>

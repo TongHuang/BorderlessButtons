@@ -1,0 +1,7 @@
+C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\classes\debug
+C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-5324566c728e6b64d8695f3f0e6369aefa9186dc.jar
+C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-09d7c14b64f8a6a21d511f3ebd2d3a48495e6cab.jar
+C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-c79242038a116cd1c96d25207a211df47524bda5.jar
+C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-47eb7d61aef59a17c057982e71ca515cfc77c5cb.jar
+C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-6e6f7e5716f3f4e4d9c1dd4d4a1961cfc28a8eb3.jar
+C:\Tong\workspaces\AndroidStudioProjects\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-7d3b2079ed264293ea622852794770cdf88a08af.jar
